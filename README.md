@@ -1,5 +1,6 @@
 <div align="center">
-
+<!-- ADD IT RIGHT HERE: -->
+<img src="https://raw.githubusercontent.com/Aymn-j/Aymn-j/main/cosmos_flower.gif" width="120" alt="Cosmos Flower" />
 <!-- Animated Terminal Typing Header -->
 <a href="https://github.com/Aymn-j">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFFFFF&background=05050500&center=true&vCenter=true&width=620&lines=%3E_AYMAN+ABDUL+JALEEL;%2F%2F+Systems%2C+Controls+%26+Embedded+Engineering;%2F%2F+Telecom+OSP+%26+Optical+Networks;%2F%2F+ECE+%40+MNNIT+Allahabad+'27" alt="Terminal Typing Header" />
